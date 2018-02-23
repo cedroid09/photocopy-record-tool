@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Photocopy Stock Control Tool\Photocopy Stock Control Tool\bin\x86\Debug\Photocopy Stock Control Tool.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Photocopy Stock Control Tool\Photocopy Stock Control Tool\bin\x86\Debug\Photocopy Stock Control Tool.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Photocopy Stock Control Tool\Photocopy Stock Control Tool\bin\x86\Debug\Photocopy Stock Control Tool.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Photocopy Stock Control Tool\Photocopy Stock Control Tool\bin\x86\Debug\Photocopy Stock Control Tool.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Photocopy Stock Control Tool\Photocopy Stock Control Tool\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Photocopy Stock Control Tool\Photocopy Stock Control Tool\bin\x86\Debug\System.Data.SQLite.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Photocopy Stock Control Tool\Photocopy Stock Control Tool\obj\x86\Debug\Photocopy Stock Control Tool.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Photocopy Stock Control Tool\Photocopy Stock Control Tool\obj\x86\Debug\Photocopy_Stock_Control_Tool.Main.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Photocopy Stock Control Tool\Photocopy Stock Control Tool\obj\x86\Debug\Photocopy_Stock_Control_Tool.Mainboard.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Photocopy Stock Control Tool\Photocopy Stock Control Tool\obj\x86\Debug\Photocopy_Stock_Control_Tool.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Photocopy Stock Control Tool\Photocopy Stock Control Tool\obj\x86\Debug\Photocopy_Stock_Control_Tool.UpCounter.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Photocopy Stock Control Tool\Photocopy Stock Control Tool\obj\x86\Debug\Photocopy_Stock_Control_Tool.ViewRecords.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Photocopy Stock Control Tool\Photocopy Stock Control Tool\obj\x86\Debug\Photocopy Stock Control Tool.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Photocopy Stock Control Tool\Photocopy Stock Control Tool\obj\x86\Debug\Photocopy Stock Control Tool.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Photocopy Stock Control Tool\Photocopy Stock Control Tool\obj\x86\Debug\Photocopy Stock Control Tool.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Photocopy Stock Control Tool\Photocopy Stock Control Tool\obj\x86\Debug\Photocopy Stock Control Tool.pdb
